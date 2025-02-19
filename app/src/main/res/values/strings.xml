@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="full_name">Darrell Bailey</string>
+    <string name="job_title">Data Engineer</string>
+    <string name="phone_number">(111) 333–9482</string>
+    <string name="social_media">twisty whirls</string>
+    <string name="email">example@email.com</string>
 </resources>
